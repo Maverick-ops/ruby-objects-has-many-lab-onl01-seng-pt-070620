@@ -16,7 +16,8 @@ class Post
     @@all 
   end 
   
-  def author_
+  def author_name
+    if 
   
 end 
   
