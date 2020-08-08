@@ -23,4 +23,3 @@ attr_accessor :name
     Post.all.length
   end
 end
-end 
